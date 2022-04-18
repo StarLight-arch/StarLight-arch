@@ -11,7 +11,7 @@ I am a beginner JS/Python programmer
 
 
 - 🔭 I’m currently working on API 
-- 🌱 I’m currently learning some shit 
+- 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I do not know what to write here 🤔 
 
 
